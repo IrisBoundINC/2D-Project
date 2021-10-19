@@ -1,2 +1,2 @@
 # 2D Project
- RPG Ruby Adventure game Tutorial
+ Ruby's Adventure RPG project
