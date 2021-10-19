@@ -1,2 +1,2 @@
 # 2D Project
- Ruby's Adventure RPG project
+ Ruby's Adventure RPG
